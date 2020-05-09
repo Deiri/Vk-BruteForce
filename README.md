@@ -9,18 +9,11 @@ Vk-BruteForce - это утилита позволяет подбирать па
 * pip3 install lxml
 * pip3 install requests bs4
 * pip install mechanize
-
-
-
-
-
-
-
-
-
-
-
-
+*
+*
+* git clone https://github.com/defsec16/Vk-BruteForce.git
+* cd Vk-BF
+* python3 Vk-BF.py
 
 Установка Linux
 * apt-get install python3
