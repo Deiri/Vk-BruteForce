@@ -23,7 +23,7 @@ banner = '''
 print(banner)
 
 text = '''
-      {Сейчас VkBruteForceV3}
+     
       [1]-VkBruteForceV1(python3)
       [2]-VkBruteForceV2(python2)
       [3]-passgen
