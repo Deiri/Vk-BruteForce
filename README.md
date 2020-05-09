@@ -6,7 +6,6 @@ Vk-BruteForce - это утилита позволяет подбирать па
 * pkg install git 
 * pkg install python
 * pkg install python2 и 3
-* pip3 install bs4
 * pip3 install lxml
 * pip3 install requests bs4
 * pip install mechanize
