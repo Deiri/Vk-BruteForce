@@ -9,7 +9,7 @@ if sys.version_info[0] !=3:
 	print('''===================
 	         REQUIRED PYTHON 3.x
 	         use: python3 fb.py
-             ===================
+                 ===================
 			''')
 	sys.exit()
 
@@ -45,7 +45,7 @@ def function(email,passw,i):
 		return True
 	return False
 
-print('\n----------{Welcome To Vk BruteForce}----------\n')
+print('\n----------{Welcome To Vk BruteForcev1}----------\n')
 file=open('passwords.txt','r')
 
 email=input('Enter Email/Username : ')
