@@ -5,7 +5,7 @@ if sys.version_info[0] !=2:
 	print('''===================
 	         REQUIRED PYTHON 2.x
 	         use: python fb2.py
-             ===================
+                 ===================
 			''')
 	sys.exit()
 
@@ -24,7 +24,7 @@ except:
 	print('\n\tPlease install mechanize.\n')
 	sys.exit()
 
-print('\n----------{Welcome To vk BruteForce}----------\n')
+print('\n----------{Welcome To vk BruteForcev2}----------\n')
 file=open('passwords.txt','r')
 
 email=str(raw_input('Enter Email/Username : ').strip())
