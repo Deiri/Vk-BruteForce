@@ -24,8 +24,8 @@ print(banner)
 
 text = '''
      
-      [1]-VkBruteForceV1(python3)
-      [2]-VkBruteForceV2(python2)
+      [1]-VkBruteForceV1
+      [2]-VkBruteForceV2
       [3]-passgen
       [4]-passgen2
      
