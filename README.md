@@ -1,6 +1,8 @@
-#Vk-BruteForce - это утилита позволяет подбирать пароли (с прокси)
+Vk-BruteForce - это утилита позволяет подбирать пароли (с прокси)
 
-##Установка
+(В РАЗРАБОТКЕ)
+
+Установка
 * pkg install git 
 * pkg install python
 * pip3 install bs4
@@ -20,5 +22,5 @@
 
 
 
-##Установка Linux
+Установка Linux
 * apt-get install python3
