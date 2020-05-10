@@ -7,6 +7,9 @@ os.system('clear')
 def get_proxy():
 	import os
 	os.system("python3 parser.py")
+	
+
+	
 
 
 banner = '''
@@ -26,8 +29,8 @@ text = '''
      
       [1]-VkBruteForceV1
       [2]-VkBruteForceV2
-      [3]-passgen
-      [4]-passgen2
+      [3]-passgen   #Добавить в
+      [4]-passgen2   #1 и 2
      
       '''
 print(text)
