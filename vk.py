@@ -8,7 +8,7 @@ import sys
 if sys.version_info[0] !=3: 
 	print('''===================
 	         REQUIRED PYTHON 3.x
-	         use: python3 fb.py
+	         use: python3 vk.py
                  ===================
 			''')
 	sys.exit()
