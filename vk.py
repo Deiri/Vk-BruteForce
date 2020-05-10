@@ -50,7 +50,7 @@ print('\n----------{Welcome To Vk BruteForcev1}----------\n')
 proxyconfirm = input ('Do you want to enable proxy? [y/n]: ')
 if proxyconfirm == "y":
 	print ('\033[32m'+"Opening a new shell to generate proxies...")
-	os.system('start cmd /D /C "py proxy.py"')
+	os.system('start cmd /D /C "py parser.py"')
 	
 file=open('passwords.txt','r')
 
