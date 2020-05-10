@@ -53,6 +53,6 @@ def VkBruteForceV2():
 if v ==3:
 	Vkpassgen()
 elif v ==1:
-  VkBruteForceV1()
+	VkBruteForceV1()
 elif v ==2:
-  VkBruteForceV2()
+	VkBruteForceV2()
