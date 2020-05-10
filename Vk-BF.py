@@ -29,8 +29,7 @@ text = '''
      
       [1]-VkBruteForceV1
       [2]-VkBruteForceV2
-      [3]-passgen   #Добавить в
-      [4]-passgen2   #1 и 2
+      [3]-passgen   #Добавить в 1 и 2
      
       '''
 print(text)
@@ -53,8 +52,6 @@ def VkBruteForceV2():
 
 if v ==3:
 	Vkpassgen()
-elif v ==4:
-	Vkpassgen2()
 elif v ==1:
   VkBruteForceV1()
 elif v ==2:
