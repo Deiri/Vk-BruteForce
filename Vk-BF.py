@@ -6,7 +6,7 @@ os.system('clear')
 
 def get_proxy():
 	import os
-	os.system("python3 parser.py")
+	os.system("python3 parser.py") # надо встроить 
 	
 
 	
