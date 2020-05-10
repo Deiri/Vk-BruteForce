@@ -53,7 +53,7 @@ if proxyconfirm == "y":
 	os.system('start cmd /D /C "py parser.py"')
 
 if proxyconfirm == "n":
-    print('\033[31m' + 'Proxies not activated.')
+    print('\033[31m' + 'Прокси не включен.')
     raise SystemExit
 	
 file=open('passwords.txt','r')
