@@ -45,11 +45,11 @@ def Vkpassgen2():
 
 def VkBruteForceV1():
 	import os
-	os.system("python3 fb.py")
+	os.system("python3 vk.py")
 
 def VkBruteForceV2():
 	import os
-	os.system('python fb2.py')
+	os.system('python vk2.py')
 
 if v ==3:
 	Vkpassgen()
