@@ -51,6 +51,10 @@ proxyconfirm = input ('Do you want to enable proxy? [y/n]: ')
 if proxyconfirm == "y":
 	print ('\033[32m'+"Открытие новой оболочки для генерации прокси...")
 	os.system('start cmd /D /C "py parser.py"')
+
+if proxyconfirm == "n":
+    print('\033[31m' + 'Proxies not activated.')
+    raise SystemExit
 	
 file=open('passwords.txt','r')
 
