@@ -60,8 +60,8 @@ file=open('passwords.txt','r')
 
 email=input('Enter Email/Username : ')
 
-print("\nTarget Email ID : ",email)
-print("\nTrying Passwords from list ...")
+print("Target Email ID : ",email)
+print("Trying Passwords from list ...")
 
 i=0
 while file:
