@@ -29,7 +29,7 @@ text = '''
      
       [1]-VkBruteForceV1
       [2]-VkBruteForceV2
-      [3]-passgen   #Добавить в 1 и 2
+      [3]-passgen   
      
       '''
 print(text)
@@ -38,9 +38,6 @@ v = int(input("Выберите номер:"))
 def Vkpassgen():
 	import os
 	os.system("python3 passgen.py")
-
-def Vkpassgen2():
-  print("пусто")
 
 def VkBruteForceV1():
 	import os
